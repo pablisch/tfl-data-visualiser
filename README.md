@@ -1,6 +1,6 @@
 # TfL Data Visualiser App
 
-This project is an offshoot of the [sounds-good](https://github.com/pablisch/sounds-good) (name correct at time of writing) repository for the London Underground Phony Orchestra App made as a final project of the Makers Software Dev Bootcamp.
+This project is an offshoot of the [lupo](https://github.com/pablisch/lupo) (name correct at time of writing) repository for the London Underground Phony Orchestra App made as a final project of the Makers Software Dev Bootcamp.
 
 ## Running this app
 
@@ -23,7 +23,7 @@ serve -s build
 
 ## Project Goals
 
-The goal of this project is to create a data visualisation of TfL data to support the [sounds-good](https://github.com/pablisch/sounds-good) London Underground Phony Orchestra App.
+The goal of this project is to create a data visualisation of TfL data to support the [lupo](https://github.com/pablisch/lupo) London Underground Phony Orchestra App.
 It was designed to be separate from the main app to allow for a more flexible development process but also to allow for the possibility of the visualisation being used in other projects.
 The group made the decision to bring this app into the main app repository to allow for easier progression and to allow for the visualisation to be used in the main app including the final production build.
 
