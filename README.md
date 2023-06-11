@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# TfL Data Visualiser App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an offshoot of the [sounds-good](https://github.com/pablisch/sounds-good) (name correct at time of writing) repository for the London Underground Phony Orchestra App made as a final project of the Makers Software Dev Bootcamp.
+
+## Running this app
+
+
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -71,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
