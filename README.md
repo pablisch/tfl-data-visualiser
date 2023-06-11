@@ -4,6 +4,29 @@ This project is an offshoot of the [sounds-good](https://github.com/pablisch/sou
 
 ## Running this app
 
+To run this app in development mode:
+```bash
+npm start
+```
+
+To run this app in production mode:
+Requires [serve](https://www.npmjs.com/package/serve) to be installed globally
+```bash
+npm install -g serve
+```
+Then run:
+```bash
+npm run build
+serve -s build
+```
+
+
+## Project Goals
+
+The goal of this project is to create a data visualisation of TfL data to support the [sounds-good](https://github.com/pablisch/sounds-good) London Underground Phony Orchestra App.
+It was designed to be separate from the main app to allow for a more flexible development process but also to allow for the possibility of the visualisation being used in other projects.
+The group made the decision to bring this app into the main app repository to allow for easier progression and to allow for the visualisation to be used in the main app including the final production build.
+
 
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
