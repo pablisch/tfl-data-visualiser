@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { Chart } from 'chart.js/auto';
+import './DataVisualiser.css'
 
 const DataVisualiser = ({ data }) => {
   const chartRef = useRef(null);
@@ -107,7 +108,7 @@ const DataVisualiser = ({ data }) => {
     };
   }, [data]);
 
-  return <canvas ref={chartRef} />;
+  return <canvas id='data-chart' ref={chartRef} />;
 };
 
 export default DataVisualiser;
